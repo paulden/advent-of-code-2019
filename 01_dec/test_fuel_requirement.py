@@ -1,4 +1,4 @@
-from main import compute_fuel_requirement, compute_total_fuel_requirement_for_module
+from fuel_requirement import compute_fuel_requirement, compute_total_fuel_requirement_for_module
 
 
 def test_compute_fuel_requirement_should_return_0_when_mass_is_0():
