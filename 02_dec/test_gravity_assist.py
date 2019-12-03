@@ -59,7 +59,7 @@ parametrized_data_test = [
 ]
 
 
-@pytest.mark.parametrize("initial_state,final_state", parametrized_data_test)
+@pytest.mark.parametrize('initial_state,final_state', parametrized_data_test)
 def test_compute_intcode_sequence_should_run_basic_sequences(initial_state, final_state):
     initial_state = [2, 0, 4, 1, 99]
     final_state = compute_intcode_sequence(initial_state)
