@@ -7,7 +7,7 @@ Trying to solve puzzles in Python.
 - [x] Day 1 - The Tyranny of the Rocket Equation 
 - [x] Day 2 - 1202 Program Alarm
 - [x] Day 3 - Crossed Wires
-- [ ] Day 4 - ??
+- [x] Day 4 - Secure Container
 - [ ] Day 5 - ??
 - [ ] Day 6 - ??
 - [ ] Day 7 - ??
