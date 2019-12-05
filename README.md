@@ -8,7 +8,7 @@ Trying to solve puzzles in Python.
 - [x] Day 2 - 1202 Program Alarm
 - [x] Day 3 - Crossed Wires
 - [x] Day 4 - Secure Container
-- [ ] Day 5 - ??
+- [x] Day 5 - Sunny with a Chance of Asteroids
 - [ ] Day 6 - ??
 - [ ] Day 7 - ??
 - [ ] Day 8 - ??
