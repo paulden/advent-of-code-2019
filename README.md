@@ -9,7 +9,7 @@ Trying to solve puzzles in Python.
 - [x] Day 3 - Crossed Wires
 - [x] Day 4 - Secure Container
 - [x] Day 5 - Sunny with a Chance of Asteroids
-- [ ] Day 6 - ??
+- [x] Day 6 - Universal Orbit Map
 - [ ] Day 7 - ??
 - [ ] Day 8 - ??
 - [ ] Day 9 - ??
