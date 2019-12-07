@@ -10,7 +10,7 @@ Trying to solve puzzles in Python.
 - [x] Day 4 - Secure Container
 - [x] Day 5 - Sunny with a Chance of Asteroids
 - [x] Day 6 - Universal Orbit Map
-- [ ] Day 7 - ??
+- [x] Day 7 - Amplification Circuit
 - [ ] Day 8 - ??
 - [ ] Day 9 - ??
 - [ ] Day 10 - ??
