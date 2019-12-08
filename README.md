@@ -11,7 +11,7 @@ Trying to solve puzzles in Python.
 - [x] Day 5 - Sunny with a Chance of Asteroids
 - [x] Day 6 - Universal Orbit Map
 - [x] Day 7 - Amplification Circuit
-- [ ] Day 8 - ??
+- [x] Day 8 - Space Image Format
 - [ ] Day 9 - ??
 - [ ] Day 10 - ??
 - [ ] Day 11 - ??
