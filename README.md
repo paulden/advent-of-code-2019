@@ -12,7 +12,7 @@ Trying to solve puzzles in Python.
 - [x] Day 6 - Universal Orbit Map
 - [x] Day 7 - Amplification Circuit
 - [x] Day 8 - Space Image Format
-- [ ] Day 9 - ??
+- [x] Day 9 - Sensor Boost
 - [ ] Day 10 - ??
 - [ ] Day 11 - ??
 - [ ] Day 12 - ??
