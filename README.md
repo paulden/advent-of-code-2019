@@ -13,7 +13,7 @@ Trying to solve puzzles in Python.
 - [x] Day 7 - Amplification Circuit
 - [x] Day 8 - Space Image Format
 - [x] Day 9 - Sensor Boost
-- [ ] Day 10 - ??
+- [x] Day 10 - Monitoring Station
 - [ ] Day 11 - ??
 - [ ] Day 12 - ??
 - [ ] Day 13 - ??
