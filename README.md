@@ -14,7 +14,7 @@ Trying to solve puzzles in Python.
 - [x] Day 8 - Space Image Format
 - [x] Day 9 - Sensor Boost
 - [x] Day 10 - Monitoring Station
-- [ ] Day 11 - ??
+- [x] Day 11 - Space Police
 - [ ] Day 12 - ??
 - [ ] Day 13 - ??
 - [ ] Day 14 - ??
