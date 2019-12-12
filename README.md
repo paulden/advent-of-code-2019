@@ -15,7 +15,7 @@ Trying to solve puzzles in Python.
 - [x] Day 9 - Sensor Boost
 - [x] Day 10 - Monitoring Station
 - [x] Day 11 - Space Police
-- [ ] Day 12 - ??
+- [x] Day 12 - The N-Body Problem
 - [ ] Day 13 - ??
 - [ ] Day 14 - ??
 - [ ] Day 15 - ??
