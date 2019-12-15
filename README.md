@@ -16,9 +16,9 @@ Trying to solve puzzles in Python.
 - [x] Day 10 - Monitoring Station
 - [x] Day 11 - Space Police
 - [x] Day 12 - The N-Body Problem
-- [ ] Day 13 - ??
-- [ ] Day 14 - ??
-- [ ] Day 15 - ??
+- [x] Day 13 - Care Package
+- [ ] Day 14 - Space Stoichiometry
+- [ ] Day 15 - Oxygen System
 - [ ] Day 16 - ??
 - [ ] Day 17 - ??
 - [ ] Day 18 - ??
