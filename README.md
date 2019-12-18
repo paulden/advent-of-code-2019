@@ -17,11 +17,11 @@ Trying to solve puzzles in Python.
 - [x] Day 11 - Space Police
 - [x] Day 12 - The N-Body Problem
 - [x] Day 13 - Care Package
-- [ ] Day 14 - Space Stoichiometry
+- [x] Day 14 - Space Stoichiometry
 - [ ] Day 15 - Oxygen System
-- [ ] Day 16 - ??
-- [ ] Day 17 - ??
-- [ ] Day 18 - ??
+- [ ] Day 16 - Flawed Frequency Transmission
+- [ ] Day 17 - Set and Forget
+- [ ] Day 18 - Many-Worlds Interpretation
 - [ ] Day 19 - ??
 - [ ] Day 20 - ??
 - [ ] Day 21 - ??
