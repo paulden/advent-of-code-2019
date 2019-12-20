@@ -18,12 +18,12 @@ Trying to solve puzzles in Python.
 - [x] Day 12 - The N-Body Problem
 - [x] Day 13 - Care Package
 - [x] Day 14 - Space Stoichiometry
-- [ ] Day 15 - Oxygen System
+- [x] Day 15 - Oxygen System
 - [ ] Day 16 - Flawed Frequency Transmission
 - [ ] Day 17 - Set and Forget
 - [ ] Day 18 - Many-Worlds Interpretation
-- [ ] Day 19 - ??
-- [ ] Day 20 - ??
+- [ ] Day 19 - Tractor Beam
+- [ ] Day 20 - Donut Maze
 - [ ] Day 21 - ??
 - [ ] Day 22 - ??
 - [ ] Day 23 - ??
