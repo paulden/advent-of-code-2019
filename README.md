@@ -19,12 +19,12 @@ Trying to solve puzzles in Python.
 - [x] Day 13 - Care Package
 - [x] Day 14 - Space Stoichiometry
 - [x] Day 15 - Oxygen System
-- [ ] Day 16 - Flawed Frequency Transmission
+- [x] Day 16 - Flawed Frequency Transmission
 - [ ] Day 17 - Set and Forget
 - [ ] Day 18 - Many-Worlds Interpretation
 - [ ] Day 19 - Tractor Beam
 - [ ] Day 20 - Donut Maze
-- [ ] Day 21 - ??
+- [ ] Day 21 - Springdroid Adventure
 - [ ] Day 22 - ??
 - [ ] Day 23 - ??
 - [ ] Day 24 - ??
