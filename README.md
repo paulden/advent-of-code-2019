@@ -20,12 +20,12 @@ Trying to solve puzzles in Python.
 - [x] Day 14 - Space Stoichiometry
 - [x] Day 15 - Oxygen System
 - [x] Day 16 - Flawed Frequency Transmission
-- [ ] Day 17 - Set and Forget
+- [x] Day 17 - Set and Forget
 - [ ] Day 18 - Many-Worlds Interpretation
 - [ ] Day 19 - Tractor Beam
 - [ ] Day 20 - Donut Maze
 - [ ] Day 21 - Springdroid Adventure
-- [ ] Day 22 - ??
+- [ ] Day 22 - Slam Shuffle
 - [ ] Day 23 - ??
 - [ ] Day 24 - ??
 - [ ] Day 25 - ??
